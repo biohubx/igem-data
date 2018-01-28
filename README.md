@@ -25,7 +25,7 @@ where `<part_name>` is the identifier of each part (e.g. `BBa_B0034`).
     part_nickname: String,
     part_results: String,
     part_type: String,
-    release_statuus: String,     // typo here...will not be fixed
+    release_statuus: String,
     sample_status: String,
     sequencing: String,
     short_desc: String,
