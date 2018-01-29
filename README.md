@@ -2,6 +2,8 @@
 
 This repository contains nearly all of the BioBrick information on [iGEM official website](http://parts.igem.org/Main_Page), including basic information, distribution information, documentations and user experiences. The data will be updated after iGEM Giant Jamboree every year.
 
+**NOTE** The datasets are stored with Git LFS. A plugin [git-lfs](https://git-lfs.github.com/) should be installed to support large file uploading and downloading.
+
 ## Structure
 
 Each dataset is packed as a gzipped tarball, with following directory structure:
